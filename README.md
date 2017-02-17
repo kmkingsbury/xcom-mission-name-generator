@@ -5,6 +5,7 @@ Combines an adjective and noun from wordlist to create random mission names such
 Simple Python script, depends on a list of nouns and a list of adjectives, it takes a random adjective and noun and combines it to form an operation name.
 
 # Usage / Examples
+```
 $ python generator.py
 Operation Poisoned Glove
 
@@ -19,3 +20,4 @@ Operation Spectral Steed
 
 $ python generator.py
 Operation Heaving Laughter
+```
