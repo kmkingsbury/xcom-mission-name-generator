@@ -283,3 +283,4 @@ Shriek
 Child
 Prince
 Slayer
+Briar
