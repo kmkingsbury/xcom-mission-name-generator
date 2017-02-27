@@ -16,8 +16,8 @@ with open('nouns.txt') as f:
          y = x.strip()
          nouns.append(y)
 
-this = randint(0,len(adjectives))
-that = randint(0,len(nouns))
+this = randint(0,len(adjectives)-1)
+that = randint(0,len(nouns)-1)
 
 #print(nouns)
 print("Operation " + adjectives[this] + " " + nouns[that])
